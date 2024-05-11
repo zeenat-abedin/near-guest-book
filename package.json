@@ -13,6 +13,7 @@
     "@near-wallet-selector/here-wallet": "8.9.7",
     "@near-wallet-selector/modal-ui": "8.9.7",
     "@near-wallet-selector/my-near-wallet": "8.9.7",
+    "base-x": "^3.0.0",
     "near-api-js": "4.0.1",
     "near-social-vm": "github:gagdiez/VM",
     "next": "^14.2.3",
